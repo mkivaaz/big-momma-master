@@ -11,4 +11,7 @@ public class TestClass {
     public void TestClass(){
         Log.d("Library :", "is Being Used...");
     }
+    public void TestClass2(){
+        Log.d("Library :", "Class 2 is Being Used...");
+    }
 }
