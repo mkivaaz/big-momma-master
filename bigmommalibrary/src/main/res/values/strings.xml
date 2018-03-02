@@ -5,4 +5,33 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="openDrawer">open_drawer</string>
     <string name="closeDrawer">close_drawer</string>
+
+
+    <!-- TEXT ABOUT-->
+    <string name="about1">HNS Universal Enterprise is an ambitious and motivated startup company. Based in Kuala Lumpur, Malaysia with a group of professionals working as a team.</string>
+    <string name="about2">BIGMOMMA is a project dedicated to provide cheap and delicious home cooked food as well as food from local vendors right to your doorstep. All at the tip of your finger! With cheap and reasonable price offered, we believe the rise in cost of living will not stop anyone to enjoy tasty food.</string>
+    <string name="about3">Food lovers can order anytime they want daily and the food will be delivered according to estimated time provided in the application. Easy to track and use, BIGMOMMA is a GO for those who can spare no time but in dire need to satisfy the hunger nor for those who just simply crave for food.</string>
+    <string name="about4">LET THE HUNGER GAMES BEGIN!</string>
+    <string name="about5">Hotline: +6017 290 4521 </string>
+    <string name="about6">Website : www.hnsuniversal.com.my </string>
+    <string name="about7">Address : Kuala Lumpur, Malaysia </string>
+
+    <!-- TEXT PRIVACY POLICY-->
+    <string name="privacy_title">PRIVACY POLICY</string>
+    <string name="privacy1">Because protecting your privacy is very important to BIGMOMMA, we operate our web site or Mobile Applications under the following guidelines to safeguard your personally identifiable information:</string>
+    <string name="privacy2">BIGMOMMA policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, BIGMOMMA policies and procedures are subject to change.</string>
+    <string name="privacy3">This Privacy Statement ("Statement") applies to the website/mobile applications located at www.bigmomma.com.my, Bigmomma’s Mobile App and any other websites owned and operated by HNS Universal Enterprise (002189512-W) that direct the viewer or user to this Statement. In this Statement, the terms "Bigmomma," "we," and "us" refers to HNS Universal Enterprise (002189512-W) and its respective subsidiaries and affiliated companies. Websites/ Mobile Applications that are owned and operated by Bigmomma may contain links to websites that are owned and operated by HNS Universal Enterprise. This Statement does not apply to websites and services that are owned and operated by third parties.</string>
+    <string name="privacy_info">Information We Collect</string>
+    <string name="privacy_info1">As you use our services, we collect certain information about you and the services you use. The information we collect falls into three different categories: (1) information you give us; (2) information we collect from you automatically when you use our services; and (3) information we collect from other sources.</string>
+    <string name="privacy_give">Information You Give Us</string>
+    <string name="privacy_give1">We collect information you give us when you use our services. Some examples of using our "services" are when you visit one of our stores, visit one of our websites, create a Bigmomma account, buy a gift card online, buying food and beverages online or participate in a survey or promotion. The information you give us may include your first or last name, username, password, email address, postal address, phone number, financial account information such as a credit card number, birthday, city of birth, demographics information, and any other information you choose to give us.</string>
+    <string name="privacy_collect">Information We Collect When You Use Our Services</string>
+    <string name="privacy_collect1">When you use our services, we may collect information about the services you use and how you use them. This information includes:</string>
+    <string name="privacy_collect2">Purchasing Information – We may collect information about the products you buy, including where you buy products, how frequently you buy products, and the rewards earned due to a purchase.</string>
+    <string name="privacy_collect3">Device and Website Use Information – When you install one of our mobile applications or use a computer, tablet, smart phone or other device to access our websites/ mobile applications or purchase products or services via our online properties, we may collect information about the device and how you use it.</string>
+    <string name="privacy_protect">How we protect your personal information</string>
+    <string name="privacy_protect1">We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</string>
+    <string name="privacy_protect2">Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</string>
+    <string name="privacy_protect3">We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</string>
+
 </resources>
