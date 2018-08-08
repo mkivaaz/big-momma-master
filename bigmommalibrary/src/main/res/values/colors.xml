@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#9f0035</color>
-    <color name="colorPrimaryDark">#9F0035</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="light_green">#7ED321</color>
-    <color name="orange">#F5A623</color>
-    <color name="blue">#4A90E2</color>
-    <color name="dark_green">#417505</color>
-    <color name="red">#E44256</color>
-    <color name="dark_grey">#666666</color>
-    <color name="light_grey">#ECECEC</color>
-    <color name="light_red">#D0021B</color>
-    <color name="grey">#999999</color>
-    <color name="grey1">#dfdfdf</color>
-    <color name="pitch">#ECC19C</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FEBE00</color>
 
+    <color name="textColorPrimary">#000000</color>
+
+    <!-- FaceGraphic colors -->
+    <color name="eyeWhite">#FFFACD</color>
+    <color name="eyelid">#B0E0E6</color>
+    <color name="iris">#8B4513</color>
+    <color name="eyeOutline">#000000</color>
+    <color name="overlayHint">#7FFF00</color>
+
+    <color name="colorTransparentAccent">#33FEBE00</color>
 </resources>

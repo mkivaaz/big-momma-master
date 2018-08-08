@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\Muguntan\Desktop\My Desktop\Projects\BigMomma_Master\big-momma-master\Master.iml" filepath="C:\Users\Muguntan\Desktop\My Desktop\Projects\BigMomma_Master\big-momma-master\Master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/big-momma-master.iml" filepath="$PROJECT_DIR$/big-momma-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigmommalibrary/bigmommalibrary.iml" filepath="$PROJECT_DIR$/bigmommalibrary/bigmommalibrary.iml" />
